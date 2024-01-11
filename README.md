@@ -21,7 +21,7 @@ _Unlocking the Spirits of Iowa_ is a hands-on project focused on unveiling patte
 For this project we will be using the [Data source](https://www.kaggle.com/datasets/leonczarlinski/iowa-liquor-sales) available at kaggle.
 
 ## Code Source
-To develop the analysis, I used the Kaggle notebook available on **GitHub**. [Click here](https://www.kaggle.com/code/amoschew95/unlocking-the-spirits-of-iowa/input) to access the file and see the results. 
+To develop the analysis, I used the Kaggle notebook available on **GitHub**. [Click here](https://www.kaggle.com/code/amoschew95/unlocking-the-spirits-of-iowa/notebook) to access the file and see the results. 
 
 ## Conclusions about the EDA
 The exploratory data analysis (EDA) phase of our project provided profound insights into the distribution of liquor sales across Iowa. By mapping sales data by latitude and longitude, we were able to visualize a comprehensive map of Iowa, which illuminated the geographic trends in liquor consumption. This spatial analysis was not only insightful but also visually striking, revealing patterns that might have been overlooked in a traditional data table. The map's clear depiction of sales intensity across different regions was instrumental in understanding regional preferences and market dynamics.
